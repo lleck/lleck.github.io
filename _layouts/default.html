@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+	<head>
+		<title>{{page.title}}</title>
+		<meta name="viewport" content="width=device-width">
+		<link href='https://fonts.googleapis.com/css?family=Ropa+Sans' rel='stylesheet' type='text/css'>
+		<link type="text/css" href="/static/style.css" rel="stylesheet"></link>
+
+	</head>
+	<body>
+		{{ content }}
+
+    <h2>works</h2>
+    <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+</ul>
+	</body>
+</html>
