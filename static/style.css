@@ -18,8 +18,8 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 1em;
     color: white;
     background: black;
-    margin: 2em -2em;
-    padding: 0 2em;
+    margin: 3em -3em;
+    padding: 0 1.5em;
 }
 p {
     margin: 2em 0;
