@@ -3,6 +3,8 @@ layout: default
 title:  "Sculpture Studies"
 date:   2015-11-11 16:16:01 -0600
 ---
+# Sculpture Studies
+
 This is the first ever act i made from clae during my erasmussemester at the Academy of Fine Arts Danzig, Poland 2015
 
 ![Female15](/pictures/Female15.jpg)
@@ -31,3 +33,5 @@ This male head bust is a gypsum positive of a clae work i did in erasmussemester
 ![Head2](/pictures/MaleHead2.jpg)
 
 ![Head3](/pictures/MaleHead3.jpg)
+
+#finearts, sculpture, erasmus
