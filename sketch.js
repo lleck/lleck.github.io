@@ -4,7 +4,6 @@ var y = new Array(num);
 
 function setup() {
   canvas = createCanvas(windowWidth, windowHeight*2);
-  canvas.position(0,0);
   canvas.parent('p5');
   noStroke();
 }
