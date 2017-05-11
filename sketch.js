@@ -1,6 +1,3 @@
-var num = 100;
-var x = new Array(num);
-var y = new Array(num);
 
 function setup() {
   canvas = createCanvas(windowWidth, windowHeight*2);
@@ -12,13 +9,7 @@ function setup() {
 function draw() {
   background(255);
   // Shift the values to the right
-  for (var n = num-1; n > 0; n--) {
-    x[i] = x[i-1];
-    y[i] = y[i-1];
-  }
-  // Add the new values to the beginning of the array
-  x[0] = mouseX;
-  y[0] = mouseY;
+
   // Draw the circles
   translate(windowWidth/2,windowHeight/2);
 	for (var i = 0; i < 8; i++) {
