@@ -12,7 +12,7 @@ Is our world being transformed?
 why even bother?
 why facepalm?
 
-Read a [manifesto](https://www.dropbox.com/s/fe33cbp5nyhgypf/L.Leck_Artificial%20Stupidity_Manifesto.pdf?dl=0 "manifesto")  I wrote about these and surrounding topics:
+Read a [manifesto](https://www.dropbox.com/s/fe33cbp5nyhgypf/L.Leck_Artificial%20Stupidity_Manifesto.pdf?raw=1 "manifesto")  I wrote about these and surrounding topics:
 
 ![AS](/pictures/AS.png)
 
