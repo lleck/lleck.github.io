@@ -7,9 +7,9 @@ date:   2014-07-11 16:16:01 -0600
 
 This is one product of my leisure time tinkering. I bent the circuits of this Akai s20 sampler, so there are 50 bendingpoints to shorten the ram of the sampler in a modular way, which results in weird manipulation of the sounds.
 
-![S201](/pictures/S201.jpg)
+![S01](/pictures/S01.jpg)
 
-![S202](/pictures/S202.jpg)
+![S02](/pictures/S02.jpg)
 
 <iframe width="100%" height="180" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/322708993&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=false"></iframe>
 
