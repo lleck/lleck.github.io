@@ -35,3 +35,11 @@ function draw() {
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
 }
+
+function mouseReleased() {
+  return true;
+}
+
+function touchEnded() {
+  return true;
+}
