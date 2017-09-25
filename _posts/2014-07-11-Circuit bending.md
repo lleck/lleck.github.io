@@ -4,12 +4,12 @@ title:  "Circuit bending"
 date:   2014-07-11 16:16:01 -0600
 ---
 # Akai S20 bend
-
-This is one product of my leisure time tinkering. I bent the circuits of this Akai s20 sampler, so there are 50 bendingpoints to shorten the ram of the sampler in a modular way, which results in weird manipulation of the sounds.
-
 ![sampl1](/pictures/sampl1.JPG)
 
 ![sampl2](/pictures/sampl2.JPG)
+
+
+This is one product of my leisure time tinkering. I bent the circuits of this Akai s20 sampler, so there are 50 bendingpoints to shorten the ram of the sampler in a modular way, which results in weird manipulation of the sounds.
 
 
 
