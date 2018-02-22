@@ -5,7 +5,7 @@ date:   2018-01-21 16:16:01 -0600
 ---
 # Retranscending Ecoportals
 
-###cyberesoteric gadgets for a postnature society
+#### cyberesoteric gadgets for a postnature society
 
 [![Retranscending Ecoportals](/pictures/Screenshot.png)](https://vimeo.com/246704426 "Click to Watch!")
 
