@@ -4,8 +4,7 @@ title:  "Retranscending Ecoportals"
 date:   2018-01-21 16:16:01 -0600
 ---
 # Retranscending Ecoportals
-
-#### cyberesoteric gadgets for a postnature society
+[cyberesoteric gadgets for a postnature society](https://player.vimeo.com/video/246704426) 
 
 <iframe src="https://player.vimeo.com/video/246704426" width="640" height="415" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/246704426">Retranscending Ecoportals</a> from <a href="https://vimeo.com/user45314993">Lukas Leck</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
