@@ -14,7 +14,7 @@ function draw() {
   for (var i = 0; i < 8; i++) {
     push();
     rotate(TWO_PI * i / 8);
-    var tx = 200 * noise(0.001 * frameCount);
+    var tx = 100 * noise(0.001 * frameCount);
     translate(tx, 0);
     stroke(0, 0, 0, tx / 3);
     ellipse(0, 0, -mouseY - tx, -mouseY - tx);
