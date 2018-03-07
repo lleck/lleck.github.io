@@ -14,14 +14,14 @@ function draw() {
   for (var i = 0; i < 8; i++) {
     push();
     rotate(TWO_PI * i / 8);
-    var tx = 100 * noise(0.001 * frameCount);
+    var tx = 150 * noise(0.001 * frameCount);
     translate(tx, 0);
     stroke(0, 0, 0, tx / 3);
     ellipse(0, 0, -mouseY - tx, -mouseY - tx);
     for (var j = 0; j < 6; j++) {
       push();
       rotate(TWO_PI * j / 6);
-      var rx = 60 * noise(0.001 * frameCount + 10);
+      var rx = 80 * noise(0.001 * frameCount + 10);
       stroke(0, 0, 0, rx / 3);
       ellipse(rx, 0, (mouseX / 50) * rx + 10, (mouseX / 50) * rx + 10);
       pop();
