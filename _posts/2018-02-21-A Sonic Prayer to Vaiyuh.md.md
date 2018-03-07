@@ -8,8 +8,7 @@ date:   2018-01-21 16:16:01 -0600
 ***Another transcendental interface in development:***
 
 The tools/ interfaces in development, are aiming at the medium air,
-specifically air in movement/ wind. It's attempt is to build a kind of
-toolkit to setup a *temple for the wind*.
+specifically air in movement/ wind. The attempt is to build a kind of kit to setup a *temple for the wind*.
 
 
 Wind is:
