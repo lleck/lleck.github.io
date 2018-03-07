@@ -5,7 +5,7 @@ date:   2018-01-21 16:16:01 -0600
 ---
 # (*in progress*) A Sonic Prayer to Vaiyuh
 
-### Another transcendental interface is in development:
+***Another transcendental interface in development:***
 
 The tools/ interfaces in development, are aiming at the medium air,
 specifically air in movement/ wind. It's attempt is to build a kind of
@@ -18,7 +18,7 @@ not only data but:
 *air mass in movement*, *breath of the earth*, *voice of the gods*, *transporter of life*, *seeder*, *motor of discovery*, *chaosmachine*, *hazard*,   **creator & destroyer**
 
 
-### The toolkit: Organnodes
+## The toolkit: Organnodes
 
 ![toolkit](/pictures/Toolkit.jpg)
 
