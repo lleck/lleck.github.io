@@ -27,7 +27,8 @@ Instead of redacting the collected data in order to extract meaning - as interfa
 
 Wind data is collected and then further *transcended* by motorized organ-flutes. Whereas the transmission takes place digitally the conversion decides to forgo other mediums then air itself.
 
-The alterity of aesthetic machines -among others- is their use of a different kind of algorithms. These are neither built towards performance nor to simplify complexities. While those algorithms are still
-based on binary structures they strive towards multiplicities. Instead of calculating results they digest data, transforming it in an organic manner. The outcome is potential aesthetic value, errors are impossible.
+The alterity of aesthetic machines -among others- is their use of a different kind of algorithms. These are neither built towards performance nor to simplify complexities. While those algorithms are still based on binary structures they strive towards multiplicities. Instead of calculating results they digest data, transforming it in an organic manner. The outcome is potential aesthetic value, errors are impossible.  
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/410072406&color=%231c0c14&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ![bellows2](/pictures/bellows2.gif)
