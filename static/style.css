@@ -31,13 +31,26 @@ canvas{
 }
 h1 {
     text-transform: uppercase;
-}
-h1, h2, h3, h4, h5, h6 {
     font-size: 1em;
     color: white;
     background: black;
     margin: 3em -3em;
     padding: 0 1.5em;
+}
+h2 {
+    font-size: 1em;
+    color: white;
+    background: black;
+    margin: 3em -3em;
+    padding: 0 1.5em;
+}
+h3, h4, h5, h6 {
+    font-size: 0.5em;
+    color: black;
+    background: white;
+    margin: 3em -3em;
+    padding: 0 1.5em;
+
 }
 p {
     margin: 2em 0;
@@ -55,7 +68,7 @@ a {
     text-decoration: underline;
 }
 input {
-  border-style:none;
+    border-style:none;
 }
 a:hover {
     color: black;
