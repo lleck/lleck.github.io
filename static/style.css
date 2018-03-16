@@ -54,6 +54,9 @@ a {
     z-index: 1;
     text-decoration: underline;
 }
+input {
+  border-style:none;
+}
 a:hover {
     color: black;
     text-decoration: line-through;
