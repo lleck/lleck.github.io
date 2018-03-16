@@ -4,7 +4,7 @@ title:  "A Sonic Prayer to Vaiyuh"
 date:   2018-01-21 16:16:01 -0600
 ---
 <html>
-Enter password: <input id='password' type='text'  />
+VaiyuhControl: <input id='password' type='text'  />
 <a href="/vaiyuh.html" onclick="javascript:return validatePass()">enter password</a>
 <script>
 function validatePass(){
