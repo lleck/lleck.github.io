@@ -3,8 +3,8 @@ layout: default
 title:  "A Sonic Prayer to Vaiyuh"
 date:   2018-01-21 16:16:01 -0600
 ---
-<html style="font-size: 0.75em" >
-VaiyuhControl: <input id='password' type='text'  />
+<html>
+style="font-size: 0.75em" VaiyuhControl: <input id='password' type='text'  />
 <a href="/va_iy§uh48179%1.html" onclick="javascript:return validatePass()">enter password</a>
 <script>
 function validatePass(){
