@@ -5,8 +5,8 @@ date:   2018-01-21 16:16:01 -0600
 ---
 <html>
 <p style="font-size: 0.75em">
-VaiyuhControl:</p><input id='password' type='text'  />
-<a href="/va1iy56u481h791.html" onclick="javascript:return validatePass()">enter password</a>
+VaiyuhControl: <input id='password' type='text'  />
+<a href="/va1iy56u481h791.html" onclick="javascript:return validatePass()">enter password</a></p>
 <script>
 function validatePass(){
     if(document.getElementById('password').value == 'windwind'){
