@@ -3,7 +3,21 @@ layout: default
 title:  "A Sonic Prayer to Vaiyuh"
 date:   2018-01-21 16:16:01 -0600
 ---
-[VaiyuhControl](/vaiyuh.html)
+<html>
+Enter password: <input id='password' type='text'  />
+<a href="/vaiyuh.html" onclick="javascript:return validatePass()">enter password</a>
+<script>
+function validatePass(){
+    if(document.getElementById('password').value == 'windwind'){
+        return true;
+    }else{
+        alert('wrong password!!');
+        return false;
+    }
+}
+</script>
+</html>
+
 
 # (*in progress*) A Sonic Prayer to Vaiyuh
 
