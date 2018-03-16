@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>Vaiyuh Control</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript">
+
+var update = function(sending_input) {
+  $('#status').val(" ");
+
+  $.ajax("http://192.168.1.200/settings/", {
+    method: "POST",
+    data: {
+      // enter all values here! ;)
+      threshold: $("#threshold").val(),
+      duration: $("#duration").val(),
+    },
+    success: function(){
+      $('#status').val("Send");
+    },
+    error: function(jqXHR, status, error){
+      $('#status').val("Error: " + jqXHR.statusCode  + jqXHR.statusText);
+    }
+  })
+};
+
+$(document).on('input', 'input[type=range]', function(){
+    $('#out_' + $(this).attr("id")).val($(this).val());
+    update();
+});
+
+</script>
+</head>
+<body>
+  <input type="range" id="threshold"  value="5" min="0" max="100" steps="1"/>
+  <input type="text" id="out_threshold" readonly/>
+  <br/>
+  <input type="range" id="duration"  value="5" min="0" max="100" steps="1"/>
+  <input type="text" id="out_duration" readonly/>
+  <br/>
+  <input type="text" id="status" readonly/>
+</body>
+</html>

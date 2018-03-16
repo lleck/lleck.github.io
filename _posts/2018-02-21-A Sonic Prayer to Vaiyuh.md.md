@@ -3,6 +3,8 @@ layout: default
 title:  "A Sonic Prayer to Vaiyuh"
 date:   2018-01-21 16:16:01 -0600
 ---
+
+
 # (*in progress*) A Sonic Prayer to Vaiyuh
 
 ***Another transcendental interface in development:***
@@ -31,3 +33,5 @@ The alterity of aesthetic machines -among others- is their use of a different ki
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/410072406&color=%231c0c14&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ![bellows2](/pictures/bellows2.gif)
+
+ [VaiyuhControl](/vaiyuh.html/)
