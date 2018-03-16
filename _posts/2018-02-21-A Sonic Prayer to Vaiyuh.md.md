@@ -3,7 +3,7 @@ layout: default
 title:  "A Sonic Prayer to Vaiyuh"
 date:   2018-01-21 16:16:01 -0600
 ---
-[VaiyuhControl](/vaiyuh.html/)
+[VaiyuhControl](/vaiyuh.html)
 
 # (*in progress*) A Sonic Prayer to Vaiyuh
 
